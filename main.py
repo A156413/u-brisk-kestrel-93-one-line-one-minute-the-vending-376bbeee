@@ -56,6 +56,17 @@ gate, and compact, which also helps the published tie-break
 (fewer bytes wins an exact tie on judge win rate). Line and
 rationale kept unchanged.
 
+Revision (second pass): re-checked the line against the
+judge's criteria in their stated order — it must first sound
+like the machine speaking, then draw on the machine's own
+world, then land a laugh, stay short and speakable, and stay
+charming rather than creepy. "press B7" is a command only a
+vending machine gives; button code, coil drop and exact change
+are its world; the punch sits in the last words, the machine
+waiving the exact-change rule it exists to enforce; 90
+characters, one breath, and it asks nothing in return. Line
+and rationale kept unchanged.
+
 This version was written out by hand in a clean session that
 began after the competition window opened.
 """
